@@ -1,0 +1,38 @@
+[
+    {
+        "source": "delhi",
+        "destination": "mumbai",
+        "airline": "vistara",
+        "price": 1000
+    },
+    {
+        "source": "mumbai",
+        "destination": "bangaluru",
+        "airline": "airindia",
+        "price": 500
+    },
+    {
+        "source": "delhi",
+        "destination": "lucknow",
+        "airline": "airasia",
+        "price": 500
+    },
+    {
+        "source": "delhi",
+        "destination": "mumbai",
+        "airline": "airindia",
+        "price": 800
+    },
+    {
+        "source": "delhi",
+        "destination": "mumbai",
+        "airline": "spicejet",
+        "price": 1100
+    },
+    {
+        "source": "mumbai",
+        "destination": "bangaluru",
+        "airline": "spicejet",
+        "price": 650
+    }
+]
